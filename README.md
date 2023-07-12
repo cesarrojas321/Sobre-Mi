@@ -41,6 +41,13 @@ Desarrollador web junior con conocimientos en el desarrollo tanto del front end 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
+----
+
+![CesarRojas GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarRojas&show_icons=true&theme=dracula)
+
+
+
+----
 
 <div align="center">
 
