@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/UL33Alo.png">
 
 
-## Sobre mi
+<img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif"> Sobre mi
 
 - ⭐ Github Star ⭐ 
 
