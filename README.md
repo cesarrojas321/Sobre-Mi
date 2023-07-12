@@ -62,8 +62,6 @@ Desarrollador web junior con conocimientos en el desarrollo tanto del front end 
 -----
 <br>
 
-## <b> Let's Connect..!
-<br>
 <div align='left'>
 
 ## Connect with me: </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -92,6 +90,10 @@ Desarrollador web junior con conocimientos en el desarrollo tanto del front end 
 <br>
 
 <div align='center'>
+<div align='center'>
+<div align='center'>
+
+
 
 </div>
 
