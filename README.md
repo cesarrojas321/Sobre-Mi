@@ -66,33 +66,23 @@ Desarrollador web junior con conocimientos en el desarrollo tanto del front end 
 <br>
 <div align='left'>
 
-<ul>
+## Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
+      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+</p>
 
-<li>
-<a href="https://www.linkedin.com/in/
-césar-gabriel-rojas-bastardo-70722117b
-" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
 
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
 </div>
 
 <br>
