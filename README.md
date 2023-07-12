@@ -62,8 +62,11 @@ Desarrollador web junior con conocimientos en el desarrollo tanto del front end 
 -----
 <br>
 
-<div align='left'>
 
+<div align='left'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+ 
 ## Connect with me: </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
   <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
@@ -90,10 +93,6 @@ Desarrollador web junior con conocimientos en el desarrollo tanto del front end 
 <br>
 
 <div align='center'>
-<div align='center'>
-<div align='center'>
-
-
 
 </div>
 
