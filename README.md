@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/UL33Alo.png">
 
 <style> 
-.img: {
+.img {
 width: 200px;
 height: 200px;
 }
