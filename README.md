@@ -63,10 +63,7 @@ Desarrollador web junior con conocimientos en el desarrollo tanto del front end 
 <br>
 
 
-<div align='left'>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
- 
+<div align='left'> 
 ## Connect with me: </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
   <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
@@ -82,16 +79,10 @@ Desarrollador web junior con conocimientos en el desarrollo tanto del front end 
       src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
       alt="Viral Bhadeshiya" height="30" width="auto" /></a>
 </p>
-
-
 </div>
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
 <div align='center'>
 
 </div>
