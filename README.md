@@ -3,6 +3,13 @@
 </div>
 <img src="https://i.imgur.com/UL33Alo.png">
 
+<style> 
+.img: {
+width: 200px;
+height: 200px;
+}
+</style>
+
 
 <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif"> Sobre mi
 
