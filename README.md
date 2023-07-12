@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Cesar Rojas</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/gMUS5mF">
+<img src="https://imgur.com/a/gMUS5mF.png">
 
 
 ## Sobre mi
