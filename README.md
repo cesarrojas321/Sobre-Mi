@@ -9,9 +9,10 @@ width: 200px;
 height: 200px;
 }
 </style>
+<div>
+  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif"> Sobre mi
 
-
-<img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif"> Sobre mi
+</div>
 
 - ⭐ Github Star ⭐ 
 
