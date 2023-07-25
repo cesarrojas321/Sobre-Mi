@@ -10,7 +10,7 @@
 
 <br>
 
-Desarrollador web junior con conocimientos en el desarrollo tanto del front end como del back end. Siempre en busca de aprender nuevas tecnologías y técnicas para mejorar mi trabajo.
+ Desarrollador web junior con conocimientos en el desarrollo <br> front end y back end. <br> Siempre en busca de aprender nuevas tecnologías <br> y técnicas para mejorar mi trabajo. <br> Actualmente alumno de la Escuela de <strong> <a href="https://codearock.com/" target="_blank class="codea">CodeaRock.</a> </strong>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
